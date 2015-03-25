@@ -100,7 +100,7 @@ for ($x = $start_x; $x <= $stop_x; $x++) {
 
 		<hr>
 
-		<h1>#3: Order n algorithm</h1> 
+		<h1>#3: Order n algorithm as whiteboarded</h1> 
 		<label>Checks:</label> <?php print_r($count_3); ?> 
 		<br /><br />
 		<label>Checked:</label> <?php print_r($checks_3); ?> 
